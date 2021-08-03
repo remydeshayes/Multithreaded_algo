@@ -2,4 +2,4 @@
 
 Authors : Rémy Deshayes and Sarah Lauzeral
 
-This a **<inv>very early-stage</inv>** shot at implementing a Parallel Lasso with Cython
+This is a **<ins>very early-stage</ins>** shot at implementing a Parallel Lasso with Cython
